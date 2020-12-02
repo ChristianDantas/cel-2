@@ -17,3 +17,10 @@ C:\Users\288\Desktop\celular dez 2\cel-2\atv\obj\Debug\netcoreapp3.1\Atividade a
 C:\Users\288\Desktop\celular dez 2\cel-2\atv\obj\Debug\netcoreapp3.1\Atividade atributos.csproj.CoreCompileInputs.cache
 C:\Users\288\Desktop\celular dez 2\cel-2\atv\obj\Debug\netcoreapp3.1\Atividade atributos.dll
 C:\Users\288\Desktop\celular dez 2\cel-2\atv\obj\Debug\netcoreapp3.1\Atividade atributos.pdb
+C:\Users\288\Desktop\celular dez 2\cel-2\atv\bin\Debug\netcoreapp3.1\Atividade atributos.exe
+C:\Users\288\Desktop\celular dez 2\cel-2\atv\bin\Debug\netcoreapp3.1\Atividade atributos.deps.json
+C:\Users\288\Desktop\celular dez 2\cel-2\atv\bin\Debug\netcoreapp3.1\Atividade atributos.runtimeconfig.json
+C:\Users\288\Desktop\celular dez 2\cel-2\atv\bin\Debug\netcoreapp3.1\Atividade atributos.runtimeconfig.dev.json
+C:\Users\288\Desktop\celular dez 2\cel-2\atv\bin\Debug\netcoreapp3.1\Atividade atributos.dll
+C:\Users\288\Desktop\celular dez 2\cel-2\atv\bin\Debug\netcoreapp3.1\Atividade atributos.pdb
+C:\Users\288\Desktop\celular dez 2\cel-2\atv\obj\Debug\netcoreapp3.1\Atividade atributos.genruntimeconfig.cache

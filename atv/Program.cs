@@ -7,7 +7,7 @@ namespace Atividade_atributos
     {
         static void Main(string[] args)
         {
-            string liga;
+            string liga= "";
             
             
             celular cel1 = new celular();
@@ -29,7 +29,7 @@ namespace Atividade_atributos
             
             
             if(cel1.ligado.ToLower()=="s"){
-                Console.WriteLine("você gostaria de: desligar | ligar para algum numero | mandar mensagem");
+                Console.WriteLine("você gostaria de: desligar | fazer uma ligaçao | mandar mensagem");
                 string escolha=Console.ReadLine();
                 switch(escolha){
                     case "desligar":
@@ -37,7 +37,7 @@ namespace Atividade_atributos
                       Console.WriteLine("gostaria de ligar seu celular novamente S/N");
                       liga=Console.ReadLine();
                     break;
-                    case " ligar para algum numero":
+                    case " fazer uma ligaçao":
                      Console.WriteLine("insira o numero o qual voce ligara:");
                      int numero=int.Parse(Console.ReadLine());
                      Console.WriteLine("sua ligaçao acabou");
@@ -63,7 +63,7 @@ namespace Atividade_atributos
             }
             }while(liga =="s");
             
-            Console.WriteLine("Tudo bem, então me desligarei");
+            Console.WriteLine("Tudo bem, adeus");
             
         }
     }
